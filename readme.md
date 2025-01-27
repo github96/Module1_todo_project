@@ -36,4 +36,4 @@ Create a README.md on the repository that gives information about your project a
 Submit the repository link in Google Classroom.
 
 ##
-https://github.com/github96/todo.git
+https://github.com/github96/Module1_todo_project.git
